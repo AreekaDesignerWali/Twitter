@@ -1,0 +1,3 @@
+<?php
+// Just appended log file
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Anni' for key 'users.username'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Areeka' for key 'users.username'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'grok' for key 'users.username'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'IRHA' for key 'users.username'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Areeka Peace Wali' for key 'users.username'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Areeka' for key 'users.username'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'grok' for key 'users.username'
